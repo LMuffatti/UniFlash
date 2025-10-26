@@ -1,5 +1,6 @@
 # UniFlash
-UniFlash vintage laptop/motherbard BIOS flasher
+UniFlash vintage laptop/motherbard BIOS flasher<br>
+Not to be confused with the TI Uniflash software https://www.ti.com/tool/download/UNIFLASH which serves other purposes.
 
 Fork based on code originally from:<br>
 - UniFlash 1.40 by Rainbow Software (http://www.uniflash.org)<br>
