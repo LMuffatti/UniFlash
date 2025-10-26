@@ -1,0 +1,83 @@
+1.47re.09:
+- Add support EFST:
+   F49B002UA/5V
+1.47re.08:
+(In compare with last version of Uniflash - 1.40)
+
+- Change (improve) algorithm of BIOS/chipset specific procedures detection.
+- Add support:
+   ALi:
+    M1563
+    M1567
+    M1573
+    M1575
+
+   AMD:
+    8131 PCI-X
+    8132 PCI-X 2.0
+    8151 System Controller
+
+   ATI(AMD):
+    SB400
+    SB600
+
+   Atmel:
+    A49LF004/3V
+
+   Intel:
+    i631xESB/632xESB/3100 ICH
+    i82801GH ICH7DH'
+    i82801GB/R ICH7(R)
+    i82801GBM ICH7-M
+    i82801GHM ICH7-M DH
+    i82801HB/R ICH8(R)
+    i82801HBM ICH8-M
+    i82801HH ICH8DH
+    i82801HO ICH8DO
+    i82801HHM ICH8DH-M
+    ICH9
+    Mobile ICH9
+    i82801IH ICH9DH
+    i82801IR ICH9R
+
+    i945G/GZ/P/PL
+    i945GM/PM/GMS/GT/i943/i940GML
+    i946GZ/PL/GL
+    i965 G1
+    iQ963/Q965
+    iP965/G965
+    iG33/G31/P35
+    iPM965/GM965/GL960
+
+   nVidia:
+    MCP
+    MCP-D
+    MCP2
+    MCP2A
+    MCP2S
+    nForce3 LPC Bridge
+    nForce3 250Gb LPC Bridge
+    nForce4 LPC Bridge
+    MCP-04
+    MCP55
+    MCP61
+    MCP65
+    MCP67
+    MCP72
+    MCP73
+
+   SiS:
+    961
+    962
+    963
+    965
+    966
+    968
+
+   SST:
+    49LF040B(LPC)
+
+   VIA:
+    VT8233C
+    VT8251
+    VT8375 (KM266/KL266)

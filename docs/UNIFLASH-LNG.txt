@@ -1,0 +1,2 @@
+This version of UniFlash supports english only. The other previously supported
+languages are not compiled because they're outdated.
