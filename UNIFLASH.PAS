@@ -1651,10 +1651,10 @@ Begin
  Text_Color(LightGreen);
  Write('v' + Version );
  Text_Color(LightCyan);
- WriteLn('  2025, https://github.com/LMuffatti/UniFlash');
+ WriteLn(' 2025, https://github.com/LMuffatti/UniFlash');
  Text_Color(LightMagenta);
  GotoXY(3,3);
- Write('Original version by www.uniflash.org');
+ Write('Original version by https://www.rainbow-software.org/uniflash/');
  Text_Color(LightGray);
 
  CurLang := 1; {default = English}
